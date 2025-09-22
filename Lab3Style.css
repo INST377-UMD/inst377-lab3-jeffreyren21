@@ -59,9 +59,8 @@ nav a:hover {
 }
 
 .sidebar:hover {
-    background-color: red;
+    background-color: pink;
 }
-
 
 input[type="text"]:focus {
     width: 500px;
@@ -78,6 +77,8 @@ input[type="submit"] {
     display: block;
 }
 
+
 input[type="submit"]:hover {
     background-color: red;
+
 }
